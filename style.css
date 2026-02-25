@@ -20,6 +20,7 @@ h1 {
   background-clip: text;
   -webkit-background-clip: text;
   background-image: linear-gradient(to bottom, #1ed92b, #2f6ccf);
+  text-align: center;
 }
 
 body {

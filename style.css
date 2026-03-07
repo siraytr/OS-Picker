@@ -219,3 +219,41 @@ h2 {
     pointer-events: none;
   }
 }
+
+table {
+  margin: 150px auto;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: larger;
+}
+
+.Vergleich {
+  display: flex;
+  justify-content: center;
+  color: transparent;
+  backdrop-filter: blur(20px);
+  background-color: rgba(15, 183, 209, 0.2);
+  padding: 250px;
+  border-radius: 20px;
+  max-width: 1300px;
+  margin: 100px auto;
+  flex-direction: column;
+  align-items: center;
+}
+
+.datenschutz {
+ font-size: 20px;
+}
+
+ul {
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: larger;
+  list-style-position: inside;
+  text-align: left;
+  width: fit-content;
+  margin: 0 auto;
+  margin-top: 300px;
+  font-size: 40px;
+}
+
